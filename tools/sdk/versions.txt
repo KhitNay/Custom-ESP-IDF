@@ -1,0 +1,2 @@
+esp-idf: Tasmota/v4.4 5af5c4d284
+arduino: master 3ae32d6e
